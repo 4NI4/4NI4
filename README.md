@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4NI4
-- 👀 I’m interested in ... art and nft
+- 👀 I’m interested in ... eth lol
 - 🌱 I’m currently learning ... smart contracts
-- 💞️ I’m looking to collaborate on ... nft lol
+- 💞️ I’m looking to collaborate on ... looking to work with solidity dev to experiment with visualising UI and "brand/project" identity. 
 - 📫 How to reach me ... darkkpower on twitter or 4ni4 on ig
 
 <!---
