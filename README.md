@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4NI4
-- 🌱 I’m currently based in CDMX and learning how to DApp like a Boss!
-- 💞️ I’m looking to meet cool devs to chat!
-- 📫 How to reach me ... darkkpower on twitter
+- I’m currently based in CDMX and learning how to DApp like a Boss!
+- I love a challange and happy to bring my creativity to any technical task at hand.
+- HMU if you need a designer or product person.
 
 <!---
 4NI4/4NI4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
